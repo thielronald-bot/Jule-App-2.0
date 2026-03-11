@@ -1,0 +1,30 @@
+{
+  "name": "Jule - Die WürfelApp",
+  "short_name": "Jule",
+  "description": "Punktezähler für das Würfelspiel Jule - Görlitz Edition",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a0f0a",
+  "theme_color": "#1a0f0a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
